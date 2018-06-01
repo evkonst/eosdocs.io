@@ -12,13 +12,13 @@ draft: false
 
 
 {{% notice warning %}}
-Note that [EOS Wiki](https://github.com/EOSIO/eos/wiki/Local-Environment#3-docker) has instructions on how to use a docker container to compile the newest version code. This may have it's own problems so we encourage the use of the docker image referenced below while you're learning. This will be easier and faster initially. 
+Note that [EOS Wiki](https://github.com/EOSIO/eos/wiki/Local-Environment#3-docker) has instructions on how to use a docker container to compile the newest version code. This may have its own problems so we encourage the use of the docker image referenced below while you're learning. This will be easier and faster initially. 
 {{% /notice %}}
 
 
 #### Introduction
 
-If you don't alredy have docker installed, you can download it here: https://www.docker.com/community-edition
+If you don't already have docker installed, you can download it here: https://www.docker.com/community-edition
 
 #### 1. Getting the docker image {#GettingStarted}
 
